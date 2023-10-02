@@ -1,2 +1,2 @@
 # Data-Analysis-to-Improve-Education-Quality-Chicago-Neighborhood-Study
-I have conducted the analysis of census, crime, and school data for the designated neighborhood or district in Chicago
+I have conducted the analysis of census, crime, and school data for the designated neighborhood or district in Chicago, focusing on improving educational outcomes for children and young people. I have addressed questions similar to those encountered by real-life data analysts and data scientists. Utilizing the provided Jupyter notebook, I have completed all the tasks outlined in the assignment. The SQL queries and results have been meticulously prepared and are ready for review by my peers.
